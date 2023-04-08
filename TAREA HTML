@@ -7,6 +7,15 @@
     <title>Document</title>
 </head>
 <body>
-    
+    1.¿Qué es un Protocolos Http?
+    Es el nombre de un protocolo el cual nos permite realizar una petición de datos y recursos, como pueden ser documentos HTML.
+    2.¿Qué es un Query String?
+    Query string o, en español, cadena de consulta es un término informático que se utiliza para hacer referencia a una interacción con una base de datos.
+    3.¿Qué es un Verbos HTTP?
+    Se utiliza para recuperar información desde un recurso. No se produce ningún efecto secundario cuando un cliente realiza esta llamada.
+    4.¿Qué es un DNS?
+    Este sistema es básicamente la agenda telefónica de la Web que organiza e identifica dominios.
+    5.¿Qué es un CDN?
+    Una CDN es una red de servidores que distribuye contenido de un servidor de "origen" a todo el mundo.
 </body>
 </html>

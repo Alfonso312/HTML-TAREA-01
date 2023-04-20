@@ -5,17 +5,30 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        body{
+            background-color: aqua;
+        }
+        .contenedor { 
+            background-color: blueviolet;
+            padding: 35px;
+        }
+    </style>
 </head>
 <body>
-    1.¿Qué es un Protocolos Http?
+    <center/center>
+    <h1>Tarea</h1>
+
+    <h3>1.¿Qué es un Protocolos Http?</h3>
     Es el nombre de un protocolo el cual nos permite realizar una petición de datos y recursos, como pueden ser documentos HTML.
-    2.¿Qué es un Query String?
+    <h3>2.¿Qué es un Query String?</h3>
     Query string o, en español, cadena de consulta es un término informático que se utiliza para hacer referencia a una interacción con una base de datos.
-    3.¿Qué es un Verbos HTTP?
+    <h3>3.¿Qué es un Verbos HTTP?</h3>
     Se utiliza para recuperar información desde un recurso. No se produce ningún efecto secundario cuando un cliente realiza esta llamada.
-    4.¿Qué es un DNS?
+    <h3>¿Qué es un DNS?</h3>
     Este sistema es básicamente la agenda telefónica de la Web que organiza e identifica dominios.
-    5.¿Qué es un CDN?
+    <h3>5.¿Qué es un CDN?</h3>
     Una CDN es una red de servidores que distribuye contenido de un servidor de "origen" a todo el mundo.
+    <h6>Creador por Jose alfonso Arevalo roldan </h6>
 </body>
 </html>
